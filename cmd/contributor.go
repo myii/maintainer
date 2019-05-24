@@ -25,9 +25,9 @@ import (
 	"github.com/spf13/viper"
 	"golang.org/x/oauth2"
 
-	"github.com/maintainer-org/maintainer/pkg/config"
-	"github.com/maintainer-org/maintainer/pkg/repo"
-	"github.com/maintainer-org/maintainer/pkg/util"
+	"github.com/myii/maintainer/pkg/config"
+	"github.com/myii/maintainer/pkg/repo"
+	"github.com/myii/maintainer/pkg/util"
 )
 
 const (
